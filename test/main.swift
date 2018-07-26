@@ -7,10 +7,7 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-print("ok gm")
-
+print()
 func print(){
     print("OM")
 }
