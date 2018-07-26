@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		6BDCD84221098E3E00E729C6 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BDCD84521098E3F00E729C6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		6BDCD84E2109BD0E00E729C6 /* commandLineTools  */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "commandLineTools "; sourceTree = "<group>"; };
+		6BDCD84F2109C56500E729C6 /* commandLineTools  */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "commandLineTools "; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +58,8 @@
 		6BDCD84421098E3E00E729C6 /* test */ = {
 			isa = PBXGroup;
 			children = (
+				6BDCD84F2109C56500E729C6 /* commandLineTools  */,
 				6BDCD84521098E3F00E729C6 /* main.swift */,
-				6BDCD84E2109BD0E00E729C6 /* commandLineTools  */,
 			);
 			path = test;
 			sourceTree = "<group>";
