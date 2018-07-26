@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		6BDCD84221098E3E00E729C6 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BDCD84521098E3F00E729C6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		6BDCD84C2109972300E729C6 /* test */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = test; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				6BDCD84521098E3F00E729C6 /* main.swift */,
+				6BDCD84C2109972300E729C6 /* test */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -237,7 +239,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = MB3U6KTHY8;
+				DEVELOPMENT_TEAM = 6CAUP94AFF;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -247,7 +249,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = MB3U6KTHY8;
+				DEVELOPMENT_TEAM = 6CAUP94AFF;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
