@@ -9,4 +9,8 @@
 import Foundation
 
 print("Hello, World!")
+print("ok gm")
 
+func print(){
+    print("OM")
+}
